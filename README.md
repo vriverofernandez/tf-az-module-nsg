@@ -1,1 +1,1 @@
-# info sobre modulo az vnet
+# info sobre modulo az nsg
